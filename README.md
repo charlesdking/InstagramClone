@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge was realizing that I had to create another intent when signing out of the user back to the login activity.
 
 ## Open-source libraries used
 
